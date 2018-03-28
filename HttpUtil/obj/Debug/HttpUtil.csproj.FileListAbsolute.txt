@@ -1,0 +1,8 @@
+C:\Users\Administrator\Desktop\HttpUtil\HttpUtil\bin\Debug\HttpUtil.exe.config
+C:\Users\Administrator\Desktop\HttpUtil\HttpUtil\bin\Debug\HttpUtil.exe
+C:\Users\Administrator\Desktop\HttpUtil\HttpUtil\bin\Debug\HttpUtil.pdb
+C:\Users\Administrator\Desktop\HttpUtil\HttpUtil\obj\Debug\HttpUtil.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\HttpUtil\HttpUtil\obj\Debug\HttpUtil.exe
+C:\Users\Administrator\Desktop\HttpUtil\HttpUtil\obj\Debug\HttpUtil.pdb
+C:\Users\Administrator\Desktop\HttpUtil\HttpUtil\bin\Debug\LitJson.dll
+C:\Users\Administrator\Desktop\HttpUtil\HttpUtil\bin\Debug\MySql.Data.dll
